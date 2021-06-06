@@ -1,0 +1,16 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\ref\[Hackerrank] Diagonal Difference.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\bin\Debug\net5.0\[Hackerrank] Diagonal Difference.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\ref\[Hackerrank] Diagonal Difference.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Diagonal Difference\obj\Debug\net5.0\[Hackerrank] Diagonal Difference.genruntimeconfig.cache

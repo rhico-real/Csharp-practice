@@ -1,0 +1,15 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\ref\[Hackerrank] Simple Array Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\bin\Debug\net5.0\[Hackerrank] Simple Array Sum.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\ref\[Hackerrank] Simple Array Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Simple Array Sum\obj\Debug\net5.0\[Hackerrank] Simple Array Sum.genruntimeconfig.cache

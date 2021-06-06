@@ -1,0 +1,15 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\ref\[Hackerrank] A Very Big Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\bin\Debug\net5.0\[Hackerrank] A Very Big Sum.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\ref\[Hackerrank] A Very Big Sum.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] A Very Big Sum\obj\Debug\net5.0\[Hackerrank] A Very Big Sum.genruntimeconfig.cache

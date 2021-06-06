@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "[Hackerrank] Solve Me First/1.0.0": {
+        "runtime": {
+          "[Hackerrank] Solve Me First.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[Hackerrank] Solve Me First/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

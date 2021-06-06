@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "[Hackerrank] A Very Big Sum/1.0.0": {
+        "runtime": {
+          "[Hackerrank] A Very Big Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[Hackerrank] A Very Big Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

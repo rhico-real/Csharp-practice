@@ -1,0 +1,15 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\ref\[Hackerrank] Compare the Triplets.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\bin\Debug\net5.0\[Hackerrank] Compare the Triplets.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\ref\[Hackerrank] Compare the Triplets.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Compare the Triplets\obj\Debug\net5.0\[Hackerrank] Compare the Triplets.genruntimeconfig.cache

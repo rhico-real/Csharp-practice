@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "[Hackerrank] Compare the Triplets/1.0.0": {
+        "runtime": {
+          "[Hackerrank] Compare the Triplets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[Hackerrank] Compare the Triplets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

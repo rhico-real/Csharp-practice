@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Hackerrank] A Very Big Sum", "[Hackerrank] A Very Big Sum.csproj", "{20143E38-F1D6-4E90-9401-B33E875D6C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20143E38-F1D6-4E90-9401-B33E875D6C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20143E38-F1D6-4E90-9401-B33E875D6C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20143E38-F1D6-4E90-9401-B33E875D6C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20143E38-F1D6-4E90-9401-B33E875D6C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5DA371-5AF9-41A1-97A7-827C5EAB9A15}
+	EndGlobalSection
+EndGlobal

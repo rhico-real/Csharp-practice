@@ -1,0 +1,16 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\ref\[Hackerrank] Solve Me First.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\bin\Debug\net5.0\[Hackerrank] Solve Me First.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.csproj.AssemblyReference.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\ref\[Hackerrank] Solve Me First.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Solve Me First\[Hackerrank] Solve Me First\obj\Debug\net5.0\[Hackerrank] Solve Me First.genruntimeconfig.cache
