@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Hackerrank] Staircase", "[Hackerrank] Staircase.csproj", "{803680C8-7E2A-4AA5-913A-D310E38C4B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803680C8-7E2A-4AA5-913A-D310E38C4B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803680C8-7E2A-4AA5-913A-D310E38C4B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803680C8-7E2A-4AA5-913A-D310E38C4B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803680C8-7E2A-4AA5-913A-D310E38C4B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE643E80-A51A-4F55-9842-50488DC73164}
+	EndGlobalSection
+EndGlobal

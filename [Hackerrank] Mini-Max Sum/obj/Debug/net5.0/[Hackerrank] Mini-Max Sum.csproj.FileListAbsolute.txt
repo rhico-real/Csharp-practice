@@ -1,0 +1,15 @@
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.exe
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.deps.json
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.runtimeconfig.json
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.runtimeconfig.dev.json
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.dll
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\ref\[Hackerrank] Mini-Max Sum.dll
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\bin\Debug\net5.0\[Hackerrank] Mini-Max Sum.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.AssemblyInfoInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.AssemblyInfo.cs
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.csproj.CoreCompileInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.dll
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\ref\[Hackerrank] Mini-Max Sum.dll
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Mini-Max Sum\obj\Debug\net5.0\[Hackerrank] Mini-Max Sum.genruntimeconfig.cache

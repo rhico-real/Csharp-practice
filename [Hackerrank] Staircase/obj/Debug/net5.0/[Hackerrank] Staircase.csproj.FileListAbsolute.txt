@@ -1,0 +1,16 @@
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.exe
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.deps.json
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.runtimeconfig.json
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.runtimeconfig.dev.json
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.dll
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\ref\[Hackerrank] Staircase.dll
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\bin\Debug\net5.0\[Hackerrank] Staircase.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.csproj.AssemblyReference.cache
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.AssemblyInfoInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.AssemblyInfo.cs
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.csproj.CoreCompileInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.dll
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\ref\[Hackerrank] Staircase.dll
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Staircase\obj\Debug\net5.0\[Hackerrank] Staircase.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.exe
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.deps.json
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.runtimeconfig.json
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.runtimeconfig.dev.json
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.dll
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\ref\[Hackerrank] Birthday Cake Candles.dll
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\bin\Debug\net5.0\[Hackerrank] Birthday Cake Candles.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.AssemblyInfoInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.AssemblyInfo.cs
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.csproj.CoreCompileInputs.cache
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.dll
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\ref\[Hackerrank] Birthday Cake Candles.dll
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.pdb
+C:\Users\rhico\source\repos\[Hackerrank] Birthday Cake Candles\obj\Debug\net5.0\[Hackerrank] Birthday Cake Candles.genruntimeconfig.cache

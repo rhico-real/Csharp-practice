@@ -1,0 +1,15 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\ref\[Hackerrank] Time Conversion.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\bin\Debug\net5.0\[Hackerrank] Time Conversion.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\ref\[Hackerrank] Time Conversion.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Time Conversion\obj\Debug\net5.0\[Hackerrank] Time Conversion.genruntimeconfig.cache

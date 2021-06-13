@@ -1,0 +1,16 @@
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.exe
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.deps.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.runtimeconfig.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.runtimeconfig.dev.json
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\ref\[Hackerrank] Plus Minus.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\bin\Debug\net5.0\[Hackerrank] Plus Minus.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.csproj.AssemblyReference.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.AssemblyInfoInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.AssemblyInfo.cs
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.csproj.CoreCompileInputs.cache
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\ref\[Hackerrank] Plus Minus.dll
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.pdb
+C:\Users\rhico\Documents\csharp-practice\[Hackerrank] Plus Minus\obj\Debug\net5.0\[Hackerrank] Plus Minus.genruntimeconfig.cache
